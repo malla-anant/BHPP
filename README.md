@@ -26,7 +26,6 @@ The project explores and compares:
 ![Screenshot 2025-05-07 164455](https://github.com/user-attachments/assets/97da33b1-4289-44b0-8893-c8acae38da27)
 
 📁 Project Structure
-
 .
 ├── Bengaluru_House_Data.csv       # Original raw dataset
 ├── Cleaned_data.csv               # Preprocessed and cleaned dataset
