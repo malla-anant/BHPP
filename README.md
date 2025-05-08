@@ -52,22 +52,27 @@ The project explores and compares:
 🧪 How to Run Locally
 
 Step 1: Clone the repository
+
 git clone https://github.com/yourusername/bangalore-house-price-predictor.git
 cd bangalore-house-price-predictor
 
 Step 2: Install dependencies
+
 pip install -r requirements.txt
 
 Example requirements.txt:
+
 flask
 pandas
 numpy
 scikit-learn
 
 Step 3: Run the app
+
 python main.py
 
 Step 4: Open in browser
+
 Go to: http://localhost:5001
 
 💻 How It Works
@@ -76,11 +81,6 @@ User fills in form details: location, BHK, bathrooms, square footage
 Data is sent to Flask backend via AJAX
 Trained Ridge Regression model predicts the price
 Result is dynamically shown on the same page in ₹
-
-📊 Example Prediction
-
-Location	BHK	Bathrooms	Sqft	Predicted Price
-6th Phase JP Nagar	4	3	2000	₹14,352,010.74
 
 🙌 Acknowledgements
 
