@@ -26,17 +26,27 @@ The project explores and compares:
 ![Screenshot 2025-05-07 164455](https://github.com/user-attachments/assets/97da33b1-4289-44b0-8893-c8acae38da27)
 
 📁 Project Structure
+
 .
 ├── Bengaluru_House_Data.csv       # Original raw dataset
+
 ├── Cleaned_data.csv               # Preprocessed and cleaned dataset
+
 ├── Predictor.ipynb                # Jupyter notebook: EDA, preprocessing, training
+
 ├── RidgeModel.pkl                 # Trained Ridge Regression model
+
 ├── main.py                        # Flask app with endpoints
+
 ├── templates/
 │   └── index.html                 # Frontend HTML page
+
 ├── static/                        # For custom styles/scripts (optional)
+
 ├── Screenshot 2025-05-07 164407.png
+
 ├── Screenshot 2025-05-07 164455.png
+
 └── README.md
 
 🧪 How to Run Locally
